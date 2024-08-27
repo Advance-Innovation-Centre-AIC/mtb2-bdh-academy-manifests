@@ -16,6 +16,23 @@
   </app>  
 
   <app keywords="psoc6,bdhiot">
+   <name>Print Button via UART Template</name>
+   <category>BiiL :: EAST Park Tech Accelerator Program by BDH Group</category>
+   <id>BiiL_MTB-Print_Button_via_UART_Template</id>
+   <uri>https://github.com/Advance-Innovation-Centre-AIC/Print_Button_via_UART</uri>
+   <description>This template show how to print the message Hello world. </description>
+   <req_capabilities>psoc6</req_capabilities>
+   <versions>
+     <version flow_version="2.0">
+       <num>Latest 1.X release</num>
+       <commit>master</commit>
+     </version>
+   </versions>
+  </app>  
+
+
+
+  <app keywords="psoc6,bdhiot">
    <name>Read potentiometer sensor value via an ADC HAL Template</name>
    <category>BiiL :: EAST Park Tech Accelerator Program by BDH Group</category>
    <id>BiiL_MTB-Workshop-107_Read_potentiometer_sensor_value_via_an_ADC_HAL_Template</id>
@@ -90,6 +107,54 @@
    </versions>
  </app>
 
+  
+  <app keywords="psoc6,bdhiot">
+   <name>GPIO-HAL Troggle LED using Button Template</name>
+   <category>BiiL :: EAST Park Tech Accelerator Program by BDH Group</category>
+   <id>BIIL_MTB-_GPIO-HAL_Troggle_LED_using_Button_Template</id>
+   <uri>https://github.com/Advance-Innovation-Centre-AIC/GPIO_HAL_Troggle_LED_using_Button</uri>
+   <description>This template demonstrates the process of controlling an LED via GPIO-HAL Push/Pull Button on a PSoC 6 microcontroller, showcasing Push/Pull button to Turn No/OFF LED. </description>
+   <req_capabilities>psoc6</req_capabilities>
+   <versions>
+     <version flow_version="2.0">
+       <num>Latest 1.X release</num>
+       <commit>master</commit>
+     </version>
+   </versions>
+  </app>
+
+  <app keywords="psoc6,bdhiot">
+   <name>GPIO-HAL Button Interrupt with LED Template</name>
+   <category>BiiL :: EAST Park Tech Accelerator Program by BDH Group</category>
+   <id>BIIL_MTB-_GPIO_Button_Interrupt_via_HAL_Template</id>
+   <uri>https://github.com/Advance-Innovation-Centre-AIC/BIIL_MTB-105_GPIO_Button_Interrupt_via_HAL_Template</uri>
+   <description>This template demonstrates the process of controlling an LED via GPIO Button interrupt via HAL on a PSoC 6 microcontroller, showcasing Push/Pull button to toggle LED. </description>
+   <req_capabilities>psoc6</req_capabilities>
+   <versions>
+     <version flow_version="2.0">
+       <num>Latest 1.X release</num>
+       <commit>master</commit>
+     </version>
+   </versions>
+  </app>
+
+  <app keywords="psoc6,bdhiot">
+   <name>GPIO-PDL Button with LED Template</name>
+   <category>BiiL :: EAST Park Tech Accelerator Program by BDH Group</category>
+   <id>BIIL_MTB-_GPIO-PDL_Button_with_LED_Template</id>
+   <uri>https://github.com/Advance-Innovation-Centre-AIC/BIIL_MTB-104_GPIO-PDL_Button_with_LED_Template</uri>
+   <description>This template demonstrates the process of controlling an LED via GPIO-PDL Push/Pull Button on a PSoC 6 microcontroller, showcasing Push/Pull button to Turn No/OFF LED. </description>
+   <req_capabilities>psoc6</req_capabilities>
+   <versions>
+     <version flow_version="2.0">
+       <num>Latest 1.X release</num>
+       <commit>master</commit>
+     </version>
+   </versions>
+ </app>
+
+  
+
   <app keywords="psoc6,bdhiot">
    <name>LED Brightness using PWM via HAL Template</name>
    <category>BiiL :: EAST Park Tech Accelerator Program by BDH Group</category>
@@ -105,12 +170,12 @@
    </versions>
  </app>
 
-  <app keywords="psoc6,bdhiot">
-   <name>GPIO-HAL Button with LED Template</name>
+ <app keywords="psoc6,bdhiot">
+   <name>Read POTEN via ADC and Display on OLED Template</name>
    <category>BiiL :: EAST Park Tech Accelerator Program by BDH Group</category>
-   <id>BIIL_MTB-Workshop-109_GPIO-HAL_Button_with_LED_Template</id>
-   <uri>https://github.com/Advance-Innovation-Centre-AIC/BIIL_MTB-103_GPIO-HAL_Button_with_LED_Template</uri>
-   <description>This template demonstrates the process of controlling an LED via GPIO-HAL Push/Pull Button on a PSoC 6 microcontroller, showcasing Push/Pull button to Turn No/OFF LED. </description>
+   <id>BIIL_MTB-ADC_POT_OLED_Template</id>
+   <uri>https://github.com/Advance-Innovation-Centre-AIC/BIIL_MTB-112_ADC_POT_OLED_Template</uri>
+   <description>This template demonstrates the process of reading a potentiometer sensor value through an Analog-to-Digital Converter (ADC) and Display on OLED.</description>
    <req_capabilities>psoc6</req_capabilities>
    <versions>
      <version flow_version="2.0">
@@ -119,6 +184,7 @@
      </version>
    </versions>
  </app>
+
 
 
 <app keywords="psoc6,bdhiot">
