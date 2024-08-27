@@ -1,7 +1,7 @@
 <apps version="2.0">
    
   <app keywords="psoc6,bdhiot">
-   <name>Workshop000 - Hello World Template</name>
+   <name>Hello World Template</name>
    <category>BiiL :: EAST Park Tech Accelerator Program by BDH Group</category>
    <id>BiiL_MTB-Workshop000_Hello_World_Template</id>
    <uri>https://github.com/Advance-Innovation-Centre-AIC/Lab_Hello_world</uri>
@@ -16,7 +16,7 @@
   </app>  
 
   <app keywords="psoc6,bdhiot">
-   <name>Workshop_103 - Read potentiometer sensor value via an ADC HAL Template</name>
+   <name>Read potentiometer sensor value via an ADC HAL Template</name>
    <category>BiiL :: EAST Park Tech Accelerator Program by BDH Group</category>
    <id>BiiL_MTB-Workshop-107_Read_potentiometer_sensor_value_via_an_ADC_HAL_Template</id>
    <uri>https://github.com/Advance-Innovation-Centre-AIC/BIIL_MTB-107_Read_potentiometer_sensor_value_via_an_ADC_HAL_Template</uri>
@@ -31,7 +31,7 @@
  </app>
 
   <app keywords="psoc6,bdhiot">
-   <name>Workshop_LAB104 - Reading ADC via HAL with Potentiometer Template</name>
+   <name>Reading ADC via HAL with Potentiometer Template</name>
    <category>BiiL :: EAST Park Tech Accelerator Program by BDH Group</category>
    <id>BIIL_MTB-Workshop-Reading_ADC_using_HAL_with_Potentiometer-Template</id>
    <uri>https://github.com/Advance-Innovation-Centre-AIC/BDH_MTB_ADC_using_HAL_with_Potentiometer</uri>
@@ -46,7 +46,7 @@
  </app>
 
   <app keywords="psoc6,bdhiot">
-    <name>Workshop_LAB105 - Reading XENSIV-DPS-3XX Pressure Sensor Template</name>
+    <name>Reading XENSIV-DPS-3XX Pressure Sensor Template</name>
     <category>BiiL :: EAST Park Tech Accelerator Program by BDH Group</category>
     <id>BIIL_MTB-Workshop-Reading_XENSIV-DPS-3XX_Pressure_Sensor_Template</id>
     <uri>https://github.com/Advance-Innovation-Centre-AIC/BDH_XENSIV-DPS-3XX_pressure_sensor_template</uri>
@@ -61,7 +61,7 @@
   </app>
 
   <app keywords="psoc6,bdhiot">
-   <name>Workshop_LAB106 - Motion Sensors GUI Integration via Serial Studio Template</name>
+   <name>Motion Sensors GUI Integration via Serial Studio Template</name>
    <category>BiiL :: EAST Park Tech Accelerator Program by BDH Group</category>
    <id>BIIL_MTB-Workshop-Motion_Sensors_GUI_Integration_via_Serial_Studio_Template</id>
    <uri>https://github.com/Advance-Innovation-Centre-AIC/BDH_Orientation_BMX160_Sensor_template</uri>
@@ -76,7 +76,7 @@
  </app>
 
  <app keywords="psoc6,bdhiot">
-   <name>Workshop_LAB107 - OLED Template</name>
+   <name>OLED Template</name>
    <category>BiiL :: EAST Park Tech Accelerator Program by BDH Group</category>
    <id>BIIL_MTB-Workshop-107_Basic_OLED_Template</id>
    <uri>https://github.com/Advance-Innovation-Centre-AIC/BIIL_MTB-111_Basic_OLED_Template</uri>
@@ -91,7 +91,7 @@
  </app>
 
   <app keywords="psoc6,bdhiot">
-   <name>Workshop_LAB108 - LED Brightness using PWM via HAL Template</name>
+   <name>LED Brightness using PWM via HAL Template</name>
    <category>BiiL :: EAST Park Tech Accelerator Program by BDH Group</category>
    <id>BIIL_MTB-Workshop-108_LED_Brightness_using_PWM_via_HAL_Template</id>
    <uri>https://github.com/Advance-Innovation-Centre-AIC/BIIL_MTB-109_LED_Brightness_using_PWM_via_HAL_Template</uri>
@@ -106,7 +106,7 @@
  </app>
 
   <app keywords="psoc6,bdhiot">
-   <name>Workshop_LAB109 - GPIO-HAL Button with LED Template</name>
+   <name>GPIO-HAL Button with LED Template</name>
    <category>BiiL :: EAST Park Tech Accelerator Program by BDH Group</category>
    <id>BIIL_MTB-Workshop-109_GPIO-HAL_Button_with_LED_Template</id>
    <uri>https://github.com/Advance-Innovation-Centre-AIC/BIIL_MTB-103_GPIO-HAL_Button_with_LED_Template</uri>
@@ -122,7 +122,7 @@
 
 
 <app keywords="psoc6,bdhiot">
-   <name>Workshop_LAB209 - WiFi MQTT Client Template</name>
+   <name>WiFi MQTT Client Template</name>
    <category>BiiL :: EAST Park Tech Accelerator Program by BDH Group</category>
    <id>BIIL_MTB-Workshop-LAB_WiFi_MQTT_Client_NodeRed_Read_sensor_psoc6-Template</id>
    <uri>https://github.com/Advance-Innovation-Centre-AIC/WiFi_MQTT_Client_Template</uri>
@@ -152,7 +152,7 @@
   </app>
 
   <app keywords="psoc6,bdhiot">
-   <name>Workshop212 - Machine_learning_with_PSoC6</name>
+   <name>Machine_learning_with_PSoC6</name>
    <category>BiiL :: EAST Park Tech Accelerator Program by BDH Group</category>
    <id>BIIL_MTB-Workshop212_Machine_learning_with_PSoC6-Template</id>
    <uri>https://github.com/Advance-Innovation-Centre-AIC/data_collection</uri>
