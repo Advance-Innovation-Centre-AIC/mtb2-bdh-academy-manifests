@@ -142,7 +142,7 @@
    <name>GPIO-PDL Button with LED Template</name>
    <category>BiiL :: EAST Park Tech Accelerator Program by BDH Group</category>
    <id>BIIL_MTB-_GPIO-PDL_Button_with_LED_Template</id>
-   <uri>https://github.com/Advance-Innovation-Centre-AIC/BIIL_MTB-104_GPIO-PDL_Button_with_LED_Template</uri>
+   <uri>https://github.com/Advance-Innovation-Centre-AIC/FF_GPIO-PDL_Button_with_LED_Template</uri>
    <description>This template demonstrates the process of controlling an LED via GPIO-PDL Push/Pull Button on a PSoC 6 microcontroller, showcasing Push/Pull button to Turn No/OFF LED. </description>
    <req_capabilities>psoc6</req_capabilities>
    <versions>
