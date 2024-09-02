@@ -1,11 +1,11 @@
 <apps version="2.0">
    
 <app keywords="psoc6,bdhiot">
-   <name>LEVEL1_LAB100 - Hello World with LED Blinking Template</name>
+   <name>LEVEL1_LAB100 - Hello World Template</name>
    <category>BiiL :: Practical Embedded Systems and IoT (Level 1 - Level 2) by BDH, Burapha University</category>
    <id>BiiL_MTB-100_BASIC_GPIO_INTERFING_Template</id>
-   <uri>https://github.com/Advance-Innovation-Centre-AIC/BIIL_MTB-100_Hello_World_and_LED_Blinking_Programming_Template</uri>
-   <description>This template show how to print the message Hello world and control a LED blinking. </description>
+   <uri>https://github.com/Advance-Innovation-Centre-AIC/Lab_Hello_world</uri>
+   <description>This template show how to print the message Hello world. </description>
    <req_capabilities>psoc6</req_capabilities>
    <versions>
      <version flow_version="2.0">
