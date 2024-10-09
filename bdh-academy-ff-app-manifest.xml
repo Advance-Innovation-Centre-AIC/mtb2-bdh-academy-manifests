@@ -91,9 +91,24 @@
    </versions>
  </app>
 
+<app keywords="psoc6,bdhiot">
+   <name>Workshop006 - Reading XENSIV-DPS-3XX Pressure Sensor Template</name>
+   <category>BiiL :: EAST Park Tech Accelerator Program by BDH Group</category>
+   <id>BIIL_MTB-Workshop006-Reading_XENSIV-DPS-3XX_Pressure_Sensor_Template</id>
+   <uri>https://github.com/Advance-Innovation-Centre-AIC/BDH_XENSIV-DPS-3XX_pressure_sensor_template</uri>
+   <description>This template provide a starting point for getting XENSIV-DPS-3XX Pressure Sensor.</description>
+   <req_capabilities>psoc6</req_capabilities>
+   <versions>
+     <version flow_version="2.0">
+       <num>Latest 1.X release</num>
+       <commit>master</commit>
+     </version>
+   </versions>
+ </app>
+
 
 <app keywords="psoc6,bdhiot">
-   <name>Workshop006 PSoC-6 with MQTT WiFi via BDH Platform Template</name>
+   <name>Workshop007 PSoC-6 with MQTT WiFi via BDH Platform Template</name>
    <category>BiiL :: EAST Park Tech Accelerator Program by BDH Group</category>
    <id>BIIL_MTB-Workshop006-mtb2-example-PSoC-6-with-BDH-Platform-template</id>
    <uri>https://github.com/Advance-Innovation-Centre-AIC/PSoC6_Board_With_BDH_Platform</uri>
