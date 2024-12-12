@@ -14,7 +14,7 @@
      </version>
    </versions>
  </app>   
-   
+<!--    
 <app keywords="psoc6,bdhiot">
    <name>LEVEL1_LAB101 - GPIO-HAL LED Blink Template</name>
    <category>BiiL :: Practical Embedded Systems and IoT (Level 1 - Level 2) by BDH, Burapha University</category>
@@ -375,6 +375,6 @@
        <commit>master</commit>
      </version>
    </versions>
- </app>
+ </app> -->
  
 </apps>
