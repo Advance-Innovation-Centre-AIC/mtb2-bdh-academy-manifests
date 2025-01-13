@@ -19,7 +19,7 @@
    <name>LEVEL1_LAB101 - GPIO-HAL LED Blink Template</name>
    <category>BiiL :: Practical Embedded Systems and IoT (Level 1 - Level 2) by BDH, Burapha University</category>
    <id>BIIL_MTB-101_GPIO_LED_Blink_Template</id>
-   <uri>https://github.com/Advance-Innovation-Centre-AIC/BDH_XENSIV-DPS-3XX_pressure_sensor_template_</uri>
+   <uri>https://github.com/Advance-Innovation-Centre-AIC/BIIL_MTB-101_GPIO-HAL_LED_Blink_Template</uri>
    <description>This template demonstrates the process of controlling an LED via GPIO-HAL on a PSoC 6 microcontroller, showcasing the LED blinking. </description>
    <req_capabilities>psoc6</req_capabilities>
    <versions>
@@ -291,7 +291,7 @@
    <name>LEVEL2_LAB207 - Reading XENSIV-DPS-3XX Pressure Sensor Template</name>
    <category>BiiL :: Practical Embedded Systems and IoT (Level 1 - Level 2) by BDH, Burapha University</category>
    <id>BIIL_MTB-Reading_XENSIV-DPS-3XX_Pressure_Sensor_Template</id>
-   <uri>https://github.com/Advance-Innovation-Centre-AIC/BDH_XENSIV-DPS-3XX_pressure_sensor_template</uri>
+   <uri>https://github.com/Advance-Innovation-Centre-AIC/BDH_XENSIV-DPS-3XX_pressure_sensor_template_</uri>
    <description>This template provide a starting point for getting XENSIV-DPS-3XX Pressure Sensor.</description>
    <req_capabilities>psoc6</req_capabilities>
    <versions>
