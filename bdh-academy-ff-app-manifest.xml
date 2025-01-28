@@ -110,8 +110,23 @@
 <app keywords="psoc6,bdhiot">
    <name>Workshop007 PSoC-6 with MQTT WiFi via BDH Platform Template</name>
    <category>BiiL :: EAST Park Tech Accelerator Program by BDH Group</category>
-   <id>BIIL_MTB-Workshop006-mtb2-example-PSoC-6-with-BDH-Platform-template</id>
+   <id>BIIL_MTB-Workshop007-mtb2-example-PSoC-6-with-BDH-Platform-template</id>
    <uri>https://github.com/Advance-Innovation-Centre-AIC/PSoC6_Board_With_BDH_Platform</uri>
+   <description>This code example use for register PSoC6 board with BDH Platform and stream sensor data to the platform.</description>
+   <req_capabilities>psoc6</req_capabilities>
+   <versions>
+     <version flow_version="2.0">
+       <num>Latest 1.X release</num>
+       <commit>master</commit>
+     </version>
+   </versions>
+</app>
+
+<app keywords="psoc6,bdhiot">
+   <name>Workshop008 Reading PH Sensor via an ADC HAL Template</name>
+   <category>BiiL :: EAST Park Tech Accelerator Program by BDH Group</category>
+   <id>BIIL_MTB-Workshop008-Reading_PH_Sensor_via_an_ADC_HAL_Template</id>
+   <uri>https://github.com/Advance-Innovation-Centre-AIC/BDH_PH_Sensor_Template</uri>
    <description>This code example use for register PSoC6 board with BDH Platform and stream sensor data to the platform.</description>
    <req_capabilities>psoc6</req_capabilities>
    <versions>
