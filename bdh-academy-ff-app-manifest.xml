@@ -123,7 +123,7 @@
 </app>
 
 <app keywords="psoc6,bdhiot">
-   <name>Workshop008 Reading PH Sensor via an ADC HAL Template</name>
+   <name>Workshop009 Reading PH Sensor via an ADC HAL Template</name>
    <category>BiiL :: EAST Park Tech Accelerator Program by BDH Group</category>
    <id>BIIL_MTB-Workshop008-Reading_PH_Sensor_via_an_ADC_HAL_Template</id>
    <uri>https://github.com/Advance-Innovation-Centre-AIC/BDH_PH_Sensor_Template</uri>
@@ -138,7 +138,7 @@
 </app>
 
 <app keywords="psoc6,bdhiot">
-   <name>Workshop009 PH Sensor with MQTT WiFi</name>
+   <name>Workshop008 PH Sensor with MQTT WiFi</name>
    <category>BiiL :: EAST Park Tech Accelerator Program by BDH Group</category>
    <id>BIIL_MTB-Workshop009-BDH_PH_Sensor_with_MQTT_WiFi_Template</id>
    <uri>https://github.com/Advance-Innovation-Centre-AIC/BDH_PH_Sensor_with_MQTT_WiFi_Template</uri>
