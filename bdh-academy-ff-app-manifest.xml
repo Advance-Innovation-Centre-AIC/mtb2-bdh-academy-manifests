@@ -95,7 +95,7 @@
    <name>Workshop006 - Reading XENSIV-DPS-3XX Pressure Sensor Template</name>
    <category>BiiL :: EAST Park Tech Accelerator Program by BDH Group</category>
    <id>BIIL_MTB-Workshop006-Reading_XENSIV-DPS-3XX_Pressure_Sensor_Template</id>
-   <uri>https://github.com/Advance-Innovation-Centre-AIC/BDH_XENSIV-DPS-3XX_pressure_sensor_template</uri>
+   <uri>https://github.com/Advance-Innovation-Centre-AIC/BDH_XENSIV-DPS-3XX_pressure_sensor_template_</uri>
    <description>This template provide a starting point for getting XENSIV-DPS-3XX Pressure Sensor.</description>
    <req_capabilities>psoc6</req_capabilities>
    <versions>
